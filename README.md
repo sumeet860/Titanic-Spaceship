@@ -19,3 +19,4 @@ To find the how many passengers got transported to the different dimension.
 * The dataset have total of **8693 rows × 14 columns**. Dropped the Name column as it was not a required column for the analysis.
 
 # Graphs
+![Home Planet and Destination Planet](https://github.com/sumeet860/Titanic-Spaceship/blob/main/histplot_titanic.png?raw=True "Employee Data title")
