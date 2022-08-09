@@ -90,3 +90,6 @@ To find the how many passengers got transported to the different dimension.
  
  # Submission
  * Saving the data into submission.csv file.
+ 
+ # Conclusion
+ After hyperparameter tuning using RandomizedSearchCV we can predict how many people got transported to another dimension with an accuracy of 81.4%.
