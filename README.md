@@ -56,7 +56,7 @@ To find the how many passengers got transported to the different dimension.
 * KDE plot of age to find out maximum number of people of certain age on the Spaceship.
 ![Age with kde plot](https://github.com/sumeet860/Titanic-Spaceship/blob/main/ages1_titanic.png?raw=True "Age KDE plot")
 
-* Checking the dataset if it contains any null values or not using numpy isnull() function and plotting it using sns.heatmap()
+* Checking the dataset if it contains any null values or not using numpy **isnull()** function and plotting it using sns.heatmap()
 ![Heatmap for null values](https://github.com/sumeet860/Titanic-Spaceship/blob/main/heatmap1_titanic.png?raw=True "Heatmap for null values")
 
 * As we can see there are lot of null values we will fill the null values with the median and mode of each columns.
